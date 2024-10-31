@@ -6,3 +6,6 @@
 ``` php
 print("hello world-hub");
 ```
+- [ ] Open the box
+- [ ] Fill it with sand
+- [ ] Close the sandbox
